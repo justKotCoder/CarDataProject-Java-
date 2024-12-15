@@ -20,8 +20,7 @@
 
 ## Установка
 
-### Шаг 1: Клонирование репозитория
 
 ```bash
-git clone https://github.com/yourusername/car-data-project.git
-cd car-data-project
+git clone https://github.com/yourusername/CarDataProject-Java-.git
+cd CarDataProject-Java
